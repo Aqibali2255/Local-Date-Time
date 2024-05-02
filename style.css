@@ -1,0 +1,22 @@
+.center{
+    display: flex;
+    justify-content: center;
+    height: 70vh;
+    flex-direction: column;
+    align-items: center;
+}
+.clock{
+    background-color: orange;
+    margin-top: 20px;
+    padding: 22px 30px;
+    border-radius: 5px;
+    width: 5%;
+}
+
+.data{
+    background-color: orange;
+    margin-top: 20px;
+    padding: 22px 30px;
+    border-radius: 5px;
+    width: 5%;
+}   
